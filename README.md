@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DuyTa506
+- 👋 Hi, I’m @Duyvuleo
 - 👀 I’m interested in new tech , especially ML and AI
 - 🌱 I’m currently learning NLP task 
 - Oh and I also really interested in  DevOps and IT Helpdesks
