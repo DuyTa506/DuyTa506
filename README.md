@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Duyvuleo
 - 👀 I’m interested in new tech , especially ML and AI
-- 🌱 I’m currently learning NLP task 
+- 🌱 I’m currently learning AI
 - Oh and I also really interested in  DevOps and IT Helpdesks
 - 💞️ I’m looking to collaborate on some real big projects someday 
 - I'm a big fan of Vin AI
