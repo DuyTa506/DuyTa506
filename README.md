@@ -15,11 +15,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.facebook.com/profile.php?id=100029152816163" target="blank">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="40" height="30" fill="#1877F2">
-    <path d="M512 96c-247.4 0-448 200.6-448 448s200.6 448 448 448 448-200.6 448-448S759.4 96 512 96z m67.5 283.5h-37.7v-50.6c0-40.6 15.5-66.5 66.3-66.5H618v-63.2c-11.5-1.6-50.9-5-96.7-5-95.5 0-159.8 58.2-159.8 164.7v92.3H287.9v105.2H353V768h101.1v-76.5c0-101.1 24.7-156.8 151.8-156.8h100.8V514.5z"></path>
-  </svg>
-</a>
+  <a href="https://www.facebook.com/profile.php?id=100029152816163" target="blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="DuyTa" height="30" width="40" style="filter: invert(64%) sepia(85%) saturate(3055%) hue-rotate(193deg) brightness(95%) contrast(94%);"/>
+  </a>
+</p>
+
 
 
 
