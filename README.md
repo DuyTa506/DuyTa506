@@ -15,10 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.facebook.com/profile.php?id=100029152816163" target="blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="DuyTa" height="30" width="40" style="filter: invert(64%) sepia(85%) saturate(3055%) hue-rotate(193deg) brightness(95%) contrast(94%);"/>
-  </a>
-</p>
+<a href="https://www.facebook.com/profile.php?id=100029152816163" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="DuyTa" height="30" width="40" /></a>
 
 
 
