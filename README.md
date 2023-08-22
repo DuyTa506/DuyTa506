@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-- <a href="https://www.facebook.com/profile.php?id=100029152816163"><img src="https://img.shields.io/badge/facebook%20@DuyTa-506-344E86?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://www.facebook.com/profile.php?id=100029152816163"><img src="https://img.shields.io/badge/facebook%20@DuyTa_506-344E86?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 
 
 </p>
