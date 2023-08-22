@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Duy Ta</h1>
 <h3 align="center">I'm an AI engineer aka AI researcher.</h3>
 <h4 align="center">I'm interested Deep Learning foundation.</h4>
-<img align="right" alt="Coding" width="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3NtNnZtdm04OW81OG82ZmNhbTQ1bG8zeHB2bGdsN3RhNWlvYWsybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u2pmTWUi0MXjyrMaVj/giphy.gif">
+<img align="right" alt="Coding" width="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3NtNnZtdm04OW81OG82ZmNhbTQ1bG8zeHB2bGdsN3RhNWlvYWsybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u2pmTWUi0MXjyrMaVj/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=duyta&label=Profile%20views&color=000080&style=plastic" alt="DuyTa" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
