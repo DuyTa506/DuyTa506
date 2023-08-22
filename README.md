@@ -35,6 +35,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DuyTa506&repo=T5_LORA_Tuning&theme=radical" />
 </a>    
 
+<a href="https://github.com/DuyTa506/junctionx2023_TOP1_TrackAI">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DuyTa506&repo=junctionx2023_TOP1_TrackAI&theme=radical" />
+</a>    
 
 
    
