@@ -9,7 +9,7 @@
 
 - 🤓 I’m currently learning **AI0 2023**
 
-- 💬 Ask me anything **If you want, feel free to ask me ( i'll answer , or not 🤔).**
+- 💬 **If you want, feel free to ask me ( i'll answer , or not 🤔).**
 
 - 👀 How to reach me **duyfaker01@gmail.com**
 
