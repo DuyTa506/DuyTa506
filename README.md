@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🤓 Continous learning
+- 🤓 Continuous learning, continuous improve my knowledge
 
 - 💬 **If you want, feel free to ask me ( i'll answer , or not 🤔).**
 
