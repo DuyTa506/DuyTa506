@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🤓 I’m currently learning **AI0 2023**
+- 🤓 Continous learning
 
 - 💬 **If you want, feel free to ask me ( i'll answer , or not 🤔).**
 
