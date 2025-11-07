@@ -32,9 +32,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DuyTa506&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&locale=en&layout=compact" alt="DuyTa506" /></p>
 
-<a href="https://github.com/DuyTa506/T5_LORA_Tuning">
+<a href="[https://github.com/DuyTa506/T5_LORA_Tuning](https://github.com/DuyTa506/LLM_Inference_Optimization)">
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DuyTa506&repo=T5_LORA_Tuning&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DuyTa506&repo=LLM_Inference_Optimization&theme=radical" />
 </a>    
 
 <a href="https://github.com/DuyTa506/junctionx2023_TOP1_TrackAI">
