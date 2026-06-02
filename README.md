@@ -6,8 +6,6 @@
 <img align="right" alt="Coding" width="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3NtNnZtdm04OW81OG82ZmNhbTQ1bG8zeHB2bGdsN3RhNWlvYWsybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u2pmTWUi0MXjyrMaVj/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=duyta&label=Profile%20views&color=000080&style=plastic" alt="DuyTa" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🤓 Continuous learning, continuous improve my knowledge
 
 - 💬 **If you want, feel free to ask me ( i'll answer , or not 🤔).**
